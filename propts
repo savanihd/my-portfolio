@@ -1,0 +1,59 @@
+Prompts:
+
+Create a professional portfolio website for Hardik Savani, a senior PHP Laravel developer with 10 years of experience. The website should showcase expertise and establish credibility in web development, use the colorful icons and animation so client should love it.
+Developer Profile:
+
+Name: Hardik Savani
+Title: Senior PHP Laravel Developer
+Experience: 10+ years in web development
+Location: Based on profile requirements
+Profile Picture path: images/profile.png in this folder
+
+Technical Expertise to Highlight(Add technology icons as well):
+
+Backend: PHP, Laravel Framework (primary expertise)
+Frontend: Angular, React
+Database: MySQL
+Cloud Services: AWS Server Management
+Full-stack development capabilities 
+
+Essential Sections:
+
+Hero Section: Professional introduction with compelling headline about 15 years of Laravel expertise
+About Me: Career journey, passion for development, and professional philosophy
+Skills & Technologies: Visual representation of technical stack with proficiency levels
+Experience Timeline: Career highlights and key achievements over 15 years
+Services Offered: Web development, Laravel applications, AWS deployment, consulting
+Portfolio/Projects: Showcase of notable Laravel applications and web projects
+Blog Integration: Feature latest posts from https://www.itsolutionstuff.com/
+Contact Section: Professional contact form and availability for projects
+
+Social Links to Include:
+
+Twitter: https://x.com/HardikSavani19
+LinkedIn: https://www.linkedin.com/in/savanihd/
+Blog: https://www.itsolutionstuff.com/
+
+Design Requirements:
+
+Clean, professional, and modern design
+Mobile-responsive layout
+Fast loading and optimized performance
+Professional color scheme (blues, grays, or tech-focused palette)
+Easy navigation with smooth scrolling
+SEO-optimized structure
+
+Key Features:
+
+Contact form for project inquiries
+Blog feed integration from existing blog
+Testimonials section (placeholder for client feedback)
+Downloadable resume/CV option
+Social media integration
+Professional headshot placeholder
+Call-to-action buttons for hiring/consultation
+
+Content Tone:
+Professional yet approachable, emphasizing reliability, expertise, and 15 years of proven experience in PHP/Laravel development.
+Technical Implementation:
+Use modern web technologies with clean HTML5, CSS3, and JavaScript. Ensure cross-browser compatibility and optimal performance.
